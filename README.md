@@ -2,8 +2,6 @@
 
 Application Web pour valider et réécrire un CV en version optimisée **ATS** (Applicant Tracking System) à partir d'une annonce d'emploi, via l'API Google **Gemini**, une API compatible **OpenAI** ou bien une API Compatible **Ollama**.
 
-Next.js (App Router) · TypeScript · aucune donnée stockée.
-
 ## Fonctionnement
 Page de paramétrage :
 Paramétrer le provider du LLM, l'URL de l'API si nécéssaire, la clé de l'APi et le modèle à utiliser.
