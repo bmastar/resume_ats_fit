@@ -1,10 +1,11 @@
 # RESUME-ATS-FIT
 
-Application Web pour valider et réécrire un CV en version optimisée **ATS** (Applicant Tracking System) à partir d'une annonce d'emploi, via l'API Google **Gemini**, une API compatible **OpenAI** ou bien une API Compatible **Ollama**.
+Application Web pour valider et réécrire un CV en version optimisée **ATS** (Applicant Tracking System) à partir d'une annonce d'emploi en utilisent l'IA.
+Cette application peut être utiliser avec l'API Google **Gemini**, N'import quelle API compatible **OpenAI** ou bien **Ollama**.
 
 ## Fonctionnement
-Page de paramétrage :
-Paramétrer le provider du LLM, l'URL de l'API si nécéssaire, la clé de l'APi et le modèle à utiliser.
+Sur la page de paramétrage :
+Paramétrer le provider LLM, l'URL de l'API si nécéssaire, la clé de l'APi et le modèle à utiliser.
 
 Sur la page d'accueil :
 1. Colle **ton CV** dans la première zone ou bien l'importé avec le bouton "Importer un fichier".
