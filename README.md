@@ -1,8 +1,8 @@
 # RESUME-ATS-FIT
 
-Application web permettant d’analyser, de valider et de réécrire un CV dans une version optimisée pour les systèmes **ATS** (Applicant Tracking Systems), à partir d’une offre d’emploi à l’aide de l’IA.
+Application web permettant d’analyser, de valider et de réécrire un CV dans une version optimisée pour les systèmes **ATS** (Applicant Tracking Systems), selon une offre d’emploi à l’aide de l’IA.
 
-L’application peut être utilisée avec l’API **Google Gemini**, avec n’importe quelle API compatible avec **OpenAI*, ou bien avec une API compatible **Ollama**.
+L’application peut être utilisée avec l’API **Google Gemini**, avec n’importe quelle API compatible avec **OpenAI**, ou bien avec une API compatible **Ollama**.
 
 ## Fonctionnement
 Sur la page de paramétrage :
