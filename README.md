@@ -20,10 +20,18 @@ Le CV et l'annonce sont envoyés à l'API le temps de la requête, puis oubliés
 ## Installation
 
 ```bash
-cd cv-ats
+git clone https://github.com/bmastar/resume_ats_fit
+
+cd resume_ats_fit
 npm install
 ```
 
+### Cloner le fichier de configuration
+
+```bash
+cp .env.local.example .env.local	#sur linux
+copy .env.local.example .env.local	#sur windows
+```
 
 ## Lancer en développement
 
